@@ -1,0 +1,6 @@
+C:\Users\matteo.stefani\DotNetJob\MailSender\MailSender\bin\Debug\MailSender.dll
+C:\Users\matteo.stefani\DotNetJob\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\matteo.stefani\DotNetJob\MailSender\MailSender\obj\Debug\MailSender.csproj.AssemblyReference.cache
+C:\Users\matteo.stefani\DotNetJob\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\matteo.stefani\DotNetJob\MailSender\MailSender\obj\Debug\MailSender.dll
+C:\Users\matteo.stefani\DotNetJob\MailSender\MailSender\obj\Debug\MailSender.pdb
